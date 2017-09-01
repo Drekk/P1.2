@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">P1.2</string>
+    <string name="usuario">Usuario</string>
+    <string name="password">Password</string>
+    <string name="rpassword">Repetir password</string>
+    <string name="email">e-mail</string>
+    <string name="mail">E-mail</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="dormir">Dormir</string>
+    <string name="leer">Leer</string>
+    <string name="comer">Comer</string>
+    <string name="gaming">Gaming</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ciudad">Lugar de Nacimiento</string>
+    <string name="pick_date">Fecha de nacimiento</string>
+    <string name="informacion">Información</string>
+
+
+    <string-array name="ciudades">
+        <item>Medellin</item>
+        <item>Barranquilla</item>
+        <item>Pereira</item>
+        <item>Bogota</item>
+        <item>Cali</item>
+        <item>Manizales</item>
+    </string-array>
+
+</resources>
